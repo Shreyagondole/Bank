@@ -1,0 +1,18 @@
+# Bank Project
+
+A simple banking application built with Flask to demonstrate debit and credit operations. The application has a background image and a user-friendly interface.
+
+## Features
+
+- Choose between **Debit** and **Credit** operations.
+- Enter the amount to perform the transaction.
+- A background image to enhance visual appeal.
+
+## Technologies Used
+
+- **Python**: Backend logic.
+- **Flask**: Web framework.
+- **HTML & CSS**: Frontend design.
+
+## Project Structure
+
